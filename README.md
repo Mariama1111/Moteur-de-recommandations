@@ -5,11 +5,10 @@ Application de recommandation de films + analyse cinéma pour un cinéma local
 ## 📌 Présentation du projet  
 Ce projet a été réalisé dans le cadre d’une mission de Data Analyst pour un cinéma indépendant souhaitant :
 
-1. Comprendre les attentes du public local via une **étude de marché**  
-2. Explorer et analyser une base volumineuse (+7M films) provenant d’IMDb  
-3. Construire des **indicateurs et KPI** pour mieux orienter la programmation  
-4. Mettre en place un **système de recommandation de films** performant  
-5. Proposer une **application** testable par les internautes  
+1. Explorer et analyser une base volumineuse (+7M films) provenant d’IMDb  
+2. Construire des **indicateurs et KPI** pour mieux orienter la programmation  
+3. Mettre en place un **système de recommandation de films** performant  
+4. Proposer une **application** testable par les internautes  
 
 Le projet combine **Data Analysis, Machine Learning et Data Engineering léger** pour produire une solution complète et industrialisable.
 
@@ -18,7 +17,6 @@ Le projet combine **Data Analysis, Machine Learning et Data Engineering léger**
 ## 🚀 Fonctionnalités principales  
 
 ### 🔍 Analyse & KPI
-- Analyse de la consommation cinéma dans la région de la Creuse (CNC, Insee)  
 - Étude IMDb : évolution des films, genres, durées, acteurs récurrents  
 - Visualisation des tendances (Matplotlib / Seaborn)  
 - Extraction des films les mieux notés & leurs caractéristiques  
