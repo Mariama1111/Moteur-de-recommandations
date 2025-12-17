@@ -1,0 +1,29 @@
+# Ignorer toutes les données brutes (trop volumineuses)
+data/raw/
+
+# Ignorer les fichiers volumineux
+*.tsv
+*.tsv.gz
+*.zip
+
+# Ignorer les CSV volumineux
+data/*.csv
+data/raw/*.csv
+
+# Garder SEULEMENT les données nettoyées
+!data/processed/
+!data/processed/*.csv
+
+# Fichiers systèmes
+.DS_Store
+
+# Environnements virtuels
+venv/
+.env/
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoint files
+.ipynb_checkpoints/
