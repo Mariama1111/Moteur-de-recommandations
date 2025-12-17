@@ -42,9 +42,8 @@ cinema-recommender/
 │
 │── data/
 │ ├── raw/ → données IMDb / TMDB brutes
-│ ├── processed/ → movies_clean.csv
-│ └── external/ → sources compl. (CNC, Insee)
-│
+│ └── processed/ → movies_clean.csv
+│ 
 │── notebooks/
 │ ├── 01_eda.ipynb
 │ ├── 02_cleaning.ipynb
