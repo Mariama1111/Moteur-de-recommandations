@@ -41,7 +41,7 @@ cinema-recommender/
 │── requirements.txt
 │
 │── data/
-│ ├── raw/ → données IMDb / TMDB brutes
+│ ├── raw/
 │ └── processed/ → movies_clean.csv
 │ 
 │── notebooks/
